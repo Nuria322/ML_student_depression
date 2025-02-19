@@ -3,11 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-tensorflow
-pytorch
 jupyter
-mlflow
-dvc
 pytest
 black
 ruff
