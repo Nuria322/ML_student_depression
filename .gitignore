@@ -192,3 +192,4 @@ Dataset/
 3-MachineLearning/10-Proyecto_ML/Student Depression Dataset.csv
 data/raw/Student Depression Dataset.csv
 data/processed/dataset_limpio.csv
+data/processed/dataset_limpio_2.csv
