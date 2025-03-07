@@ -191,3 +191,4 @@ Dataset/
 3-MachineLearning/2-Supervisado/Ejercicios/df_limpio.parquet
 3-MachineLearning/10-Proyecto_ML/Student Depression Dataset.csv
 data/raw/Student Depression Dataset.csv
+data/processed/dataset_limpio.csv
