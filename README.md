@@ -6,8 +6,7 @@ Autor: Nuria Rubio Fernández
 Análsis y predicción de datos sobre la depresión y las tasas de suicidio en estudiantes de universidad implementando modelos de Machine Learning
 
 
-![Texto alternativo](https://www.bing.com/images/search?view=detailV2&ccid=p%2b5%2buxYE&id=26CF8B59822E82E59C96470F2F153D87E68A781B&thid=OIP.p-5-uxYE1gp6XK4ph35TkAHaEK&mediaurl=https%3a%2f%2fe.rpp-noticias.io%2fxlarge%2f2017%2f08%2f09%2f181918_460945.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a7ee7ebb1604d60a7a5cae29877e5390%3frik%3dG3iK5oc9FS8PRw%26pid%3dImgRaw%26r%3d0&exph=675&expw=1200&q=prediccion+de+depresi%c3%b3n+imagen&simid=608029334206106262&FORM=IRPRST&ck=5577022ED4EA4079E67EB86A63668A2D&selectedIndex=0&itb=0)
-
+![Texto alternativo](https://th.bing.com/th/id/OIP.p-5-uxYE1gp6XK4ph35TkAHaEK?w=316&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
 Este proyecto esta organizado en una estructura de carpetas para facilitar el análisis exploratorio de datos, la predicción y el desarrollo de modelos.
 
