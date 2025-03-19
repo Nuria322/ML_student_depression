@@ -15,6 +15,6 @@ Este proyecto esta organizado en una estructura de carpetas para facilitar el an
 
 - Data: raw data (los datos originales)  
 processed data (dataset limpios y procesados) 
-- Notebooks: Todo el proceso del análisis de datos, limpieza e implementación de modelos dividido en 11 Jupyter notebooks (0-Descarga de datos, 1-Primera observación, 2-Análisis exploratorio, 3- Tratamiento de datos, 4-Análisis descriptivo)
+- Notebooks: Todo el proceso del análisis de datos, limpieza e implementación de modelos dividido en 11 Jupyter notebooks (análisis exploratorio, limpieza y procesado de datos, feature engineer, implementación de modelos y un notebook resumen)
 - Reports: Generación de informes de análisis, visualizaciones, modelos y resultados.
-- Scrips: documentos adicionales como la guía para realizar el proyecto de machine learning y el Readme del mismo.
+- Scrips: Documentos adicionales como la guía para realizar el proyecto de machine learning y el Readme del mismo.
