@@ -194,3 +194,4 @@ data/raw/Depression Student Dataset_2.csv
 *.zip
 data/processed/dataset_limpio_FE.csv
 notebooks/dataset_limpio_FE_2.csv
+data/processed/dataset_limpio_3_prueba.csv
